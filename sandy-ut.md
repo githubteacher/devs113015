@@ -1,3 +1,4 @@
 # My Hometown: Sandy, UT
 
-- It is a city
+- Its a city
+- Its cold outside
